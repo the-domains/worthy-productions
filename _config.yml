@@ -1,0 +1,28 @@
+name: Worthy Productions
+favicon: null
+layout_spectrum: 0.8190190517343581
+typography_spectrum: 0.9999305319506675
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.83424247126095
+  lightness: 0.13647418934851885
+  saturation: 0.7543315978255123
+  rhythmicContrast: 0.6951968926005065
+purpose: []
